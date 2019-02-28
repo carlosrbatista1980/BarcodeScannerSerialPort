@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarcodeScannerSerialPort", "BarcodeScannerSerialPort.csproj", "{D3B1AD11-9DA3-4892-9615-1F4C6248553D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3B1AD11-9DA3-4892-9615-1F4C6248553D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B1AD11-9DA3-4892-9615-1F4C6248553D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B1AD11-9DA3-4892-9615-1F4C6248553D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B1AD11-9DA3-4892-9615-1F4C6248553D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
